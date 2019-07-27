@@ -1,0 +1,2 @@
+Operation System Functions.
+One of the important OS functions is Memory Management. Different programs might need to be executed at one time. OS manages main or primary memory, moves processes between main memory and disk during execution of the programs. Memory management keeps track of memory locations, and processes. 
